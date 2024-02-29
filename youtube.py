@@ -1,9 +1,7 @@
 import googleapiclient.discovery
-import pymongo
 from pymongo import MongoClient
 import psycopg2
 import pandas as pd
-import pyarrow
 from psycopg2 import IntegrityError
 import streamlit as st
 
